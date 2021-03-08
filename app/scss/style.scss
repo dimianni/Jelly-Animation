@@ -1,0 +1,14 @@
+@import "vars";
+@import "mixins";
+@import "global";
+@import "fonts";
+@import "libs";
+
+.container{
+    width: 602px;
+    height: 602px;
+    border: 1px solid #000;
+}
+
+
+@import "media";
