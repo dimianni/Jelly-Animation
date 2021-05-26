@@ -32,7 +32,7 @@ There are only two commands.
 
 This will start a development server:
 ```bash
-gulp start
+gulp
 ```
 
 This will create a production build:
